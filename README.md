@@ -1,7 +1,5 @@
-# ML-Powered-Predictive-Maintenance-Demo
-An Honors project for the Industrial Engineering course IEM 4103: Quality Control and Reliability Analysis at Oklahoma State University.
-
-<object data="" width="1000" height="1000" type='application/pdf'/>
-<p align="center">
+# ML Powered Predictive Maintenance
+This was an Honors (extracurricular) project for the Industrial Engineering course IEM 4103: Quality Control and Reliability Analysis at Oklahoma State University. In this study, I apply Machine Learning techniques to predict machine failure on a publicly available dataset. The project report can be viewed below:
+<p align="left">
   <a href="IEM 4103 Honors Contract.pdf">Project Report</a>
 </p>

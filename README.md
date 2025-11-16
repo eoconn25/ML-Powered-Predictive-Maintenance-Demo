@@ -1,2 +1,4 @@
 # ML-Powered-Predictive-Maintenance-Demo
 An Honors project for the Industrial Engineering course IEM 4103: Quality Control and Reliability Analysis at Oklahoma State University.
+
+<object data="IEM 4103 Honors Contract.pdf" width="1000" height="1000" type='application/pdf'/>
